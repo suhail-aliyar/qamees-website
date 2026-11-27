@@ -18,7 +18,7 @@ Open `index.html` and edit the `CONFIG` block near the bottom:
 1. Create a new public repository on github.com, e.g. `qamees-site`.
 2. Click **Add file → Upload files** and drag in everything from this folder, keeping the `assets` folder intact. Then commit.
 3. Go to **Settings → Pages**. Under *Build and deployment*, set Source to **Deploy from a branch**, Branch to **main** and the folder to **/ (root)**, then click **Save**.
-4. After about a minute the site is live at `https://<your-username>.github.io/qamees-site/`.
+4. After about a minute the site is live at `https://<your-username>.github.io/qamees-website/`.
 
 ## 3. Connect the qamees.qa domain
 1. In **Settings → Pages → Custom domain**, enter `qamees.qa` and click **Save**. This creates a `CNAME` file in the repo.
